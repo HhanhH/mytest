@@ -1,2 +1,7 @@
 package com.myspace.mytest;
 
+rule "test"
+when
+eval(true)
+then
+end
